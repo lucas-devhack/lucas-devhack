@@ -1,0 +1,1 @@
+🖋️ Tatuador | Data Science | Automação n8n | Linux | Dashboards & Web Apps | GCP

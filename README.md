@@ -1,61 +1,61 @@
-<h1 align="center">Lucas Fernandes</h1>
-<p align="center"><strong>Full‑Cycle Builder / Automation Expert</strong></p>
-<p align="center">🖋️ Tatuador profissional • 📊 Ciência de Dados • 🧩 n8n • 🐧 Linux • ☁️ GCP</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Eu sou Lucas Fernandes
+
+### 🖋️ Tatuador | 🧬 Data Science Student | 🐧 Linux & Automation Expert
+
+Sou um **Full-Cycle Builder** apaixonado por transformar dados e processos em soluções robustas. Combino a precisão artística da tatuagem com a lógica de engenharia para construir automações, dashboards e web apps em ambientes Linux.
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou **tatuador profissional** e **estudante de Ciência de Dados**.  
-Construo projetos reais de **automação**, **dashboards** e **apps web** em **infraestrutura Linux** — com foco em **estabilidade, organização e segurança**.  
-Uso **n8n** para orquestrar integrações e fluxos automatizados.  
-Tenho forte interesse em **Cloud (GCP)** para tornar dados e sistemas **escaláveis, observáveis e bem monitorados**.
+## 🛠️ Tech Stack
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infrastructure & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Automation & Tools
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🔥 O que eu construo
-- Automação e integrações (n8n, webhooks, APIs, notificações)
-- Dashboards e métricas (monitoramento e telemetria)
-- Apps web e painéis (arquitetura modular e UI/UX limpo)
-- Infra Linux (serviços, rede, Nginx, organização de dados)
-- Estudos aplicados em **Data Science + Segurança + Cloud**
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição |
+| :--- | :--- |
+| **Central-H67** | Central de automação e gerenciamento para estúdio de tatuagem. |
+| **Bot Binance** | Bot de trading automatizado com estratégias de Data Science. |
+| **Transfer** | Sistema seguro de transferência de arquivos em infra Linux. |
+| **MyTube** | Automação para download e processamento de vídeos. |
 
 ---
 
-## 🚀 Projetos em destaque
-| Projeto | Descrição | Status |
-|---|---|---|
-| **Central‑H67** | Hub de apps e serviços pessoais (painel modular / ecossistema) | Privado por enquanto |
-| **Bot Binance (SOL/BRL)** | Automação com estratégia controlada, logs e métricas | Privado por enquanto |
-| **Transfer** | Upload/download privado e organizado | Privado por enquanto |
-| **MyTube** | Arquivo pessoal de vídeos/links com registro de origem e banco de dados | Privado por enquanto |
+## ⚡ O que estou estudando agora?
+
+- **Ciência de Dados Avançada:** Machine Learning e Big Data.
+- **Google Cloud Platform:** Arquiteturas escaláveis e Data Engineering.
 
 ---
 
-## 🧰 Stack atual
-**Core:** Python • Linux • Git/GitHub • Redes  
-**Automação:** n8n • APIs • Webhooks  
-**Web:** Next.js / React • Tailwind • Nginx  
-**Cloud (em evolução):** GCP • BigQuery • Observabilidade
+<div align="center">
+  <a href="https://lucasfernandes.work">
+    <img src="https://img.shields.io/badge/Website-lucasfernandes.work-black?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+  <a href="mailto:lucasfernandes.devhack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<br>
 
-## 🎯 Trilha de estudo (Ciência de Dados + Cloud)
-- Faculdade: **Ciência de Dados**
-- Evolução prática: dashboards, automações e projetos com dados reais
-- Próximo foco no GCP: transformar logs/telemetria em pipeline e análises
-
----
-
-## ✅ Como eu penso projetos (Full‑Cycle)
-Ideia → MVP → Logs → Métricas → Estabilidade → Evolução  
-Sempre com organização, documentação e melhoria contínua.
-
----
-
-## 🔗 Links
-- 🌐 Site: **lucasfernandes.work**
-- 🐈‍⬛ Studio: **@house67tattoo**
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-devhack/
-- ✉️ Contato: via LinkedIn
-
-> “Construo arte na pele e sistemas na vida real.”
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucas-devhack&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="Lucas Fernandes Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-devhack&layout=compact&theme=dark&hide_border=true&locale=pt-br" alt="Top Languages" />
+</div>
