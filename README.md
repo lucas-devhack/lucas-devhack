@@ -1,5 +1,8 @@
-# Lucas Fernandes 👋
-**Full-Cycle Builder / Automation Expert**
+<h1 align="center">Lucas Fernandes</h1>
+<p align="center"><strong>Full‑Cycle Builder / Automation Expert</strong></p>
+<p align="center">🖋️ Tatuador profissional • 📊 Ciência de Dados • 🧩 n8n • 🐧 Linux • ☁️ GCP</p>
+
+---
 
 ## 👨‍💻 Sobre mim
 Sou **tatuador profissional** e **estudante de Ciência de Dados**.  
@@ -19,10 +22,12 @@ Tenho forte interesse em **Cloud (GCP)** para tornar dados e sistemas **escaláv
 ---
 
 ## 🚀 Projetos em destaque
-- **Central-H67** — hub de apps e serviços pessoais (painel modular / ecossistema) — privado por enquanto
-- **Bot Binance (SOL/BRL)** — automação com estratégia controlada, logs e métricas — privado por enquanto
-- **Transfer** — upload/download privado e organizado — privado por enquanto
-- **MyTube** — arquivo pessoal de vídeos/links com registro de origem e banco de dados — privado por enquanto
+| Projeto | Descrição | Status |
+|---|---|---|
+| **Central‑H67** | Hub de apps e serviços pessoais (painel modular / ecossistema) | Privado por enquanto |
+| **Bot Binance (SOL/BRL)** | Automação com estratégia controlada, logs e métricas | Privado por enquanto |
+| **Transfer** | Upload/download privado e organizado | Privado por enquanto |
+| **MyTube** | Arquivo pessoal de vídeos/links com registro de origem e banco de dados | Privado por enquanto |
 
 ---
 
@@ -41,7 +46,7 @@ Tenho forte interesse em **Cloud (GCP)** para tornar dados e sistemas **escaláv
 
 ---
 
-## ✅ Como eu penso projetos (Full-Cycle)
+## ✅ Como eu penso projetos (Full‑Cycle)
 Ideia → MVP → Logs → Métricas → Estabilidade → Evolução  
 Sempre com organização, documentação e melhoria contínua.
 
