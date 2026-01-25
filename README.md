@@ -1,31 +1,37 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Eu sou Lucas Fernandes 
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello">
+  <h1>Olá! Eu sou Lucas Fernandes</h1>
+  
+  <p>
+    <b>Tatuador</b> | <b>Data Science</b> | <b>Linux Automation</b>
+  </p>
 
-### 🖋️ Tatuador | 🧬 Data Science Student | 🐧 Linux & Automation Expert
+  <p>
+    Sou um <b>Full-Cycle Builder</b> apaixonado por transformar dados e processos em soluções robustas.<br>
+    Combino a precisão artística da tatuagem com a lógica de engenharia para construir automações, dashboards e web apps.
+  </p>
+</div>
 
-Sou um **Full-Cycle Builder** apaixonado por transformar dados e processos em soluções robustas. Combino a precisão artística da tatuagem com a lógica de engenharia para construir automações, dashboards e web apps em ambientes Linux.
+<div align="center">
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Infrastructure & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Automation & Tools
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-## 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
 | :--- | :--- |
@@ -36,26 +42,24 @@ Sou um **Full-Cycle Builder** apaixonado por transformar dados e processos em so
 
 ---
 
-## ⚡ O que estou estudando agora?
-
-- **Ciência de Dados Avançada:** Machine Learning e Big Data.
-- **Google Cloud Platform:** Arquiteturas escaláveis e Data Engineering.
-
----
-
 <div align="center">
-  <a href="https://lucasfernandes.work">
-    <img src="https://img.shields.io/badge/Website-lucasfernandes.work-black?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-  <a href="mailto:lucasfernandes.devhack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+
+### ⚡ O que estou estudando?
+**Ciência de Dados Avançada** (Machine Learning) & **Google Cloud Platform**
 
 <br>
 
-<div align="center">
+<a href="https://lucasfernandes.work">
+  <img src="https://img.shields.io/badge/Website-lucasfernandes.work-black?style=for-the-badge&logo=google-chrome" alt="Website" />
+</a>
+<a href="mailto:lucasfernandes.devhack@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=lucas-devhack&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="Lucas Fernandes Stats" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-devhack&layout=compact&theme=dark&hide_border=true&locale=pt-br" alt="Top Languages" />
+
 </div>
