@@ -17,8 +17,10 @@
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -35,10 +37,7 @@
 
 | Projeto | Descrição |
 | :--- | :--- |
-| **Central-H67** | Central de automação e gerenciamento para estúdio de tatuagem. |
-| **Bot Binance** | Bot de trading automatizado com estratégias de Data Science. |
-| **Transfer** | Sistema seguro de transferência de arquivos em infra Linux. |
-| **MyTube** | Automação para download e processamento de vídeos. |
+| **ocr-conversor** | OCR Conversor - monorepo com versao desktop (Python/Tkinter) e webapp (FastAPI + Next.js) |
 
 ---
 
