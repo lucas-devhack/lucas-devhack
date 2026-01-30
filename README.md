@@ -38,6 +38,7 @@
 | Projeto | Descrição |
 | :--- | :--- |
 | **ocr-conversor** | OCR Conversor - monorepo com versao desktop (Python/Tkinter) e webapp (FastAPI + Next.js) |
+| **antigravity-kit** | Templates de agentes de IA com skills e workflows para projetos. |
 
 ---
 
