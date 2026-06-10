@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    Sou um <b>builder em evolução</b>, criando soluções digitais que unem IA, dados, automação,
+    Sou um <b>builder SEMPRE em evolução</b>, criando soluções digitais que unem IA, dados, automação,
     desenvolvimento web e infraestrutura própria.<br>
     Minha base vem da arte, da tatuagem e da cultura maker. Hoje uso essa visão prática e criativa
     para construir sistemas, dashboards, agentes, automações e plataformas conectadas a problemas reais.
