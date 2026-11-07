@@ -1,205 +1,161 @@
+<!-- LUCAS-DEVHACK / PROFILE README EXPERIMENT · Google-inspired independent visual language. -->
+<!-- This is the personal profile of Lucas Fernandes, NOT the devhack-platform account profile. -->
+
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello">
+  <img src="./assets/hero.svg" width="100%" alt="Lucas Fernandes — IA aplicada, Dados e Google Cloud. Banner tecnológico com órbitas e cores inspiradas no ecossistema Google." />
 
-  <h1>Olá! Eu sou Lucas Fernandes</h1>
+  <br />
 
-  <h3>IA Aplicada • Google Cloud • Dados • Desenvolvimento • Automação • Infraestrutura Híbrida</h3>
+  <a href="https://lucasfernandes.work"><img src="https://img.shields.io/badge/PORTFÓLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/lucas-devhack"><img src="https://img.shields.io/badge/LINKEDIN-EA4335?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3"><img src="https://img.shields.io/badge/GOOGLE_SKILLS-FBBC05?style=for-the-badge&logo=google&logoColor=202124" alt="Google Skills" /></a>
+  <a href="https://www.credly.com/users/lucas-devhack/badges"><img src="https://img.shields.io/badge/CREDLY-34A853?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
 
-  <p>
-    Sou um <b>builder em evolução</b>, criando soluções digitais que unem IA aplicada, dados,
-    automação, desenvolvimento web e infraestrutura própria.
-  </p>
+  <br />
 
-  <p>
-    Minha base vem da arte, da tatuagem e da cultura maker. Hoje uso essa visão prática e criativa
-    para construir sistemas, dashboards, agentes, automações e plataformas conectadas a problemas reais.
-  </p>
+  <sub><b>IA aplicada · Google Cloud · Dados · Automação · Desenvolvimento · Infraestrutura híbrida</b></sub>
 </div>
 
 ---
 
-## 🚀 Áreas de atuação
+## `01 / Sobre mim` — tecnologia com olhar criativo
 
-- IA aplicada e agentes inteligentes
-- Google Cloud, dados e estudos para certificações
-- Gemini, ADK, Agent Studio, Agent Runtime e Gemini Enterprise Agent Platform
-- Dados, dashboards, BigQuery, Looker e BigQuery ML
-- Automação com Python, Linux, n8n, APIs e scripts
-- Desenvolvimento com React, Next.js, Tailwind CSS, FastAPI e Django
-- Infraestrutura própria com Linux, Nginx, Docker, Cloudflare e redes locais
-- Integração entre cloud, local, web apps, modelos de IA e automações reais
+Sou **Lucas Fernandes**, um criativo e builder brasileiro. Minha trajetória começou no desenho, na tatuagem e na cultura maker; hoje exploro a interseção entre **inteligência artificial, engenharia de software, dados e infraestrutura**.
 
----
+Gosto de sair do conceito e chegar a algo que funcione: desenvolver uma interface, conectar um agente a ferramentas, organizar um pipeline ou transformar um servidor Linux em uma plataforma de experimentação. Sou especialmente entusiasta do **ecossistema Google**, de suas ferramentas para IA e das possibilidades de construir com o Google Cloud.
 
-## 🧠 Stack principal
-
-### IA & Agentes
-
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![Agent Platform](https://img.shields.io/badge/Gemini%20Enterprise%20Agent%20Platform-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Agent Runtime](https://img.shields.io/badge/Agent%20Runtime-111827?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
-
-### Google Cloud & Dados
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![BigQuery ML](https://img.shields.io/badge/BigQuery%20ML-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### Linguagens & Desenvolvimento
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Web, APIs & Infraestrutura
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-## 🧬 IA Aplicada, Modelos e Agentes
-
-Estou aprofundando meus estudos em modelos de IA, agentes inteligentes, automação com LLMs e aplicações práticas de IA generativa.
-
-Meu foco é entender como diferentes famílias de modelos, plataformas e ferramentas podem ser aplicadas em projetos reais, conectando IA com dados, web apps, automações, infraestrutura própria e Google Cloud.
-
-### Ecossistema Google AI & Cloud
-
-- Gemini
-- Gemini API
-- Gemini Enterprise Agent Platform
-- Agent Studio
-- Agent Runtime
-- Agent Development Kit / ADK
-- RAG Engine
-- Model Garden
-- Google Antigravity
-- NotebookLM
-- BigQuery, Looker e BigQuery ML
-- Cloud Run para aplicações, APIs e agentes
-- Modelos multimodais aplicados a fluxos reais
-- Agentes conectados a ferramentas, dados, APIs e automações
-
-### Ecossistema OpenAI
-
-- Família GPT
-- Codex
-- Assistentes e agentes de código
-- Workflows com IA para desenvolvimento
-- Documentação, automação e produtividade com LLMs
-
-### Modelos locais e open source
-
-- Ollama
-- Qwen
-- Llama
-- DeepSeek
-- Gemma
-- Modelos locais para coding, automação e experimentos em servidores próprios
-
-### Áreas de interesse
-
-- Agentes de IA
-- RAG e busca semântica
-- Automação com LLMs
-- IA multimodal
-- IA aplicada a dados
-- Geração de áudio, texto e conteúdo
-- Ferramentas self-hosted
-- Integração entre cloud, local e web apps
-
----
-
-## 🧪 Projetos em destaque
-
-### Central H67
-
-Plataforma administrativa para organizar serviços, automações, dashboards, integrações e infraestrutura híbrida do ecossistema House 67.
-
-### DevHack Labs
-
-Laboratório pessoal para estudos, agentes, IA aplicada, automações, dados, segurança, infraestrutura e tecnologias emergentes.
-
-### Narrabox
-
-Ferramenta para transformar texto em áudio, narrações e fluxos com IA/TTS.
-
-### OCR Conversor
-
-Projeto de OCR para converter imagens e PDFs em texto, com versão desktop em Python/Tkinter e versão web com backend Python + frontend Next.js.
-
-### Antigravity Kit
-
-Kit experimental para organizar estudos, templates, skills, workflows e estruturas de projetos com agentes de IA.
-
-### BotBin / Tio Patinhas
-
-Laboratório prático com Python, APIs, logs, automações, dados financeiros e dashboards.
-
-### LucasFernandes.work
-
-Portfólio profissional reunindo projetos, estudos, stack, currículo, artigos e laboratórios.
-
----
-
-## 📚 Em estudo
-
-- Google Cloud Generative AI Leader
-- Gemini Enterprise Agent Platform
-- Gemini API, Agent Studio e Agent Runtime
-- Agent Development Kit / ADK
-- RAG Engine, Model Garden e agentes no Google Cloud
-- BigQuery, Looker e BigQuery ML
-- Segurança em Cloud
-- Arquiteturas com agentes
-- Serverless, Cloud Run e CI/CD
-- Python aplicado a dados, automação e APIs
-- Modelos locais com Ollama, Qwen, Llama, DeepSeek e Gemma
-- Fluxos de IA com GPT, Codex e ferramentas de desenvolvimento
-
----
-
-## 📊 GitHub Stats
+> **Meu jeito de aprender:** construir → testar → medir → documentar → melhorar.
 
 <div align="center">
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-devhack&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-devhack&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal visual: Lucas Fernandes; foco em Google Cloud, dados, IA aplicada e automação." />
 </div>
 
----
+## `02 / Tech constellation` — quatro frentes que se conectam
 
-## 🌐 Links
+<div align="center">
+  <img src="./assets/constellation.svg" width="100%" alt="Mapa visual de quatro áreas: Google AI, Data & Cloud, Code & Apps e Hybrid Infra." />
+</div>
 
-- Portfólio: [lucasfernandes.work](https://lucasfernandes.work)
-- LinkedIn: [linkedin.com/in/lucas-devhack](https://www.linkedin.com/in/lucas-devhack)
-- Google Skills: [Perfil público](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3)
-- Credly: [Badges](https://www.credly.com/users/lucas-devhack/badges)
-- E-mail: [lucasfernandes.devhack@gmail.com](mailto:lucasfernandes.devhack@gmail.com)
+| Área | Ferramentas e temas que estudo ou utilizo |
+| :-- | :-- |
+| 🟦 **Google AI & Agents** | Gemini, Google ADK, RAG, agentes com ferramentas, experimentos com modelos locais |
+| 🟥 **Cloud & Analytics** | Google Cloud, BigQuery, SQL, Looker, Cloud Run, observabilidade |
+| 🟨 **Software & Automation** | Python, JavaScript, React, Next.js, FastAPI, APIs, n8n |
+| 🟩 **Hybrid Infrastructure** | Linux, Docker, Cloudflare, redes, GitHub Actions, automação operacional |
+
+> **Aprendizado contínuo ≠ domínio certificado:** tecnologias em estudo, protótipos e experiência aplicada aparecem juntas no mapa, sem sugerir certificações ou competências verificadas que ainda não foram conquistadas.
+
+## `03 / Selected builds` — projetos e experimentos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 LucasFernandes.work**
+
+Meu hub profissional: portfólio, projetos, currículo e evolução em IA, dados e desenvolvimento.
+
+<a href="https://lucasfernandes.work">Explorar site</a>
+
+</td>
+<td width="50%" valign="top">
+
+**🧩 OCR Conversor**
+
+Projeto público com versão desktop em Python/Tkinter e uma evolução web com FastAPI e Next.js.
+
+<a href="https://github.com/lucas-devhack/ocr-conversor">Explorar código</a>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🛠️ DevHack Labs**
+
+Um laboratório de estudos, integrações, agentes, automações, aplicações e infraestrutura própria.
+
+<a href="https://lucasfernandes.work/catalog">Ver projetos</a>
+
+</td>
+<td valign="top">
+
+**🎨 House 67 Tattoo**
+
+Projeto real que une presença digital, design, identidade, processos e automação de um estúdio criativo.
+
+<a href="https://lucasfernandes.work/catalog">Ver no portfólio</a>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🎙️ Narrabox**
+
+Laboratório de narração, texto para áudio e experimentos com motores TTS.
+
+<sub>Projeto em evolução; demonstração pública não anunciada aqui.</sub>
+
+</td>
+<td valign="top">
+
+**🤖 Antigravity Kit — estudo**
+
+Repositório de referência para agents, skills e workflows; preserva a atribuição ao projeto original de <a href="https://github.com/vudovn/ag-kit">Vudovn</a>.
+
+<a href="https://github.com/lucas-devhack/antigravity-kit">Explorar repositório</a>
+
+</td>
+</tr>
+</table>
+
+<sub>Parte das aplicações é privada ou experimental. A vitrine mostra o que pode ser compartilhado sem expor infraestrutura, segredos ou repositórios internos.</sub>
+
+## `04 / Quest log` — progresso real, sem XP fictício
+
+| Missão | Estado | Evidência |
+| :-- | :-- | :-- |
+| Publicar portfólio profissional | ✅ Concluída | [lucasfernandes.work](https://lucasfernandes.work) |
+| Compartilhar projeto técnico open source | ✅ Concluída | [OCR Conversor](https://github.com/lucas-devhack/ocr-conversor) |
+| Evoluir em Google Cloud e IA generativa | 🔄 Em andamento | [Google Skills](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3) |
+| Conectar README, site e currículo a uma fonte única de dados | 🧭 Planejada | Arquitetura em preparação |
+
+<details>
+<summary><b>🧪 Abrir painel de missões futuras</b></summary>
+
+- [ ] Consolidar uma fonte única da verdade para os dados profissionais.
+- [ ] Gerar o perfil GitHub e os currículos PT/EN a partir da mesma base.
+- [ ] Exibir credenciais verificadas de Google Skills e Credly sem números inventados.
+- [ ] Publicar mais estudos de caso com arquitetura, decisões técnicas e resultados.
+
+</details>
+
+## `05 / Learning signals` — credenciais verificáveis
+
+Não existe atalho para experiência real. Prefiro mostrar a trajetória de aprendizado e deixar as evidências acessíveis.
+
+- **Google Skills:** [perfil público, laboratórios e skill badges](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3).
+- **Credly:** [credenciais e badges emitidos](https://www.credly.com/users/lucas-devhack/badges).
+- **Google Cloud:** estudos com foco em IA generativa, ADK, agentes, dados e arquiteturas cloud.
+
+<details>
+<summary><b>📊 Explorar atividade pública no GitHub</b></summary>
+
+<p align="center">
+  <a href="https://github.com/lucas-devhack">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-devhack&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1628&amp;title_color=8AB4F8&amp;text_color=DCE6F8&amp;icon_color=34A853" alt="Estatísticas públicas do GitHub de lucas-devhack; serviço externo opcional." />
+  </a>
+</p>
+
+<sub>O gráfico é fornecido por um serviço de terceiros e pode estar temporariamente indisponível. Ele não inclui necessariamente contribuições privadas.</sub>
+
+</details>
 
 ---
 
 <div align="center">
-
-### Tecnologia, criatividade e IA aplicada para transformar ideias em soluções reais.
-
-**IA Aplicada • Google Cloud • Dados • Automação • Desenvolvimento • Infraestrutura Híbrida**
-
+  <a href="https://lucasfernandes.work"><img src="./assets/footer.svg" width="100%" alt="Tecnologia, criatividade e curiosidade para construir soluções reais." /></a>
+  <br />
+  <sub>Perfil pessoal independente. Identidade visual inspirada nas quatro cores do Google; sem afiliação ou endosso oficial.</sub>
 </div>

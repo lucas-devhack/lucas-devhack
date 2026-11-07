@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Lucas Fernandes — AI, Data, Google Cloud and Creative Engineering</title>
+<desc id="desc">Dark technology banner with four-color accents inspired by the Google ecosystem, orbiting data nodes and a futuristic terminal interface.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#080D1A"/><stop offset=".53" stop-color="#0A1123"/><stop offset="1" stop-color="#0D1930"/></linearGradient>
+ <radialGradient id="shine"><stop stop-color="#3573f5" stop-opacity=".27"/><stop offset="1" stop-color="#4285F4" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#6D85B1" stroke-opacity=".11" fill="none" stroke-width=".9"/></pattern>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#4285F4"/><stop offset=".33" stop-color="#EA4335"/><stop offset=".67" stop-color="#FBBC05"/><stop offset="1" stop-color="#34A853"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
+ <style>
+  .small{font:600 13px 'DejaVu Sans Mono',Consolas,monospace;letter-spacing:2px}
+  .micro{font:500 11px 'DejaVu Sans Mono',Consolas,monospace;letter-spacing:1.5px}
+  .name{font:800 62px 'DejaVu Sans',Arial,sans-serif;letter-spacing:-2px}
+  .orbitA{transform-origin:957px 195px;animation:spin 24s linear infinite}
+  .orbitB{transform-origin:957px 195px;animation:spin 36s linear infinite reverse}
+  .pulse{animation:pulse 2.8s ease-in-out infinite}
+  .scan{animation:scan 6s ease-in-out infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes pulse{0%,100%{opacity:.38}50%{opacity:.95}}
+  @keyframes scan{0%,100%{opacity:.1;transform:translateY(-38px)}50%{opacity:.65;transform:translateY(38px)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+</defs>
+<rect width="1200" height="390" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="388" rx="17" fill="none" stroke="#6078AE" stroke-opacity=".28"/>
+<rect width="1200" height="390" rx="18" fill="url(#grid)"/>
+<ellipse cx="950" cy="180" rx="290" ry="252" fill="url(#shine)"/>
+<path d="M0 0H1200M0 390H1200" stroke="#22304D" stroke-width="2"/>
+<path d="M31 31h48 M31 31v26 M1169 31h-48 M1169 31v26 M31 359h48 M31 359v-26 M1169 359h-48 M1169 359v-26" fill="none" stroke="#4E648A" stroke-width="1.7"/>
+<!-- small top bar -->
+<circle cx="65" cy="65" r="5" fill="#34A853" class="pulse"/>
+<text x="82" y="70" class="small" fill="#8BA8D7">PROFILE / LUCAS-DEVHACK</text>
+<text x="640" y="70" class="micro" fill="#6B7FA5">INDEPENDENT BUILDER     •     BR / PT-EN</text>
+<!-- hero text -->
+<text x="60" y="156" class="name" fill="#F3F6FE">LUCAS</text>
+<text x="60" y="224" class="name" fill="#F3F6FE">FERNANDES<tspan fill="#4285F4">.</tspan></text>
+<rect x="60" y="242" width="440" height="4" rx="2" fill="url(#line)"/>
+<text x="60" y="280" font-size="18" font-weight="600" fill="#BDD0EB" font-family="DejaVu Sans,Arial,sans-serif">IA aplicada  /  Dados  /  Google Cloud</text>
+<text x="60" y="310" font-size="15" fill="#7E9BBF" font-family="DejaVu Sans,Arial,sans-serif">Construindo sistemas reais, um experimento por vez.</text>
+<text x="60" y="352" class="micro" fill="#6D89B2">$ build --learn --iterate</text>
+<!-- lateral connections -->
+<path d="M656 104h90l48 38h24 M653 293h96l36-31h26" fill="none" stroke="#31507C" stroke-width="1.5"/>
+<path d="M680 121h78l41 34" fill="none" stroke="#4285F4" stroke-opacity=".35"/>
+<circle cx="650" cy="104" r="3" fill="#4285F4"/>
+<circle cx="653" cy="293" r="3" fill="#34A853"/>
+<!-- orbital interface -->
+<g class="orbitB">
+ <circle cx="957" cy="195" r="151" fill="none" stroke="#2D3F67" stroke-width="1.4" stroke-dasharray="4 9"/>
+ <circle cx="957" cy="44" r="4.7" fill="#FBBC05" filter="url(#glow)"/>
+ <circle cx="806" cy="195" r="4.7" fill="#EA4335" filter="url(#glow)"/>
+</g>
+<g class="orbitA">
+ <circle cx="957" cy="195" r="125" fill="none" stroke="#A9C5F1" stroke-opacity=".28" stroke-width="1.1"/>
+ <circle cx="957" cy="195" r="125" fill="none" stroke="#4285F4" stroke-width="5" stroke-linecap="round" stroke-dasharray="85 700" transform="rotate(-90 957 195)" filter="url(#glow)"/>
+ <circle cx="957" cy="195" r="125" fill="none" stroke="#EA4335" stroke-width="5" stroke-linecap="round" stroke-dasharray="85 700" transform="rotate(0 957 195)" filter="url(#glow)"/>
+ <circle cx="957" cy="195" r="125" fill="none" stroke="#FBBC05" stroke-width="5" stroke-linecap="round" stroke-dasharray="85 700" transform="rotate(90 957 195)" filter="url(#glow)"/>
+ <circle cx="957" cy="195" r="125" fill="none" stroke="#34A853" stroke-width="5" stroke-linecap="round" stroke-dasharray="85 700" transform="rotate(180 957 195)" filter="url(#glow)"/>
+ <circle cx="957" cy="70" r="7" fill="#4285F4"/>
+</g>
+<circle cx="957" cy="195" r="92" fill="#0F1D35" stroke="#3D5075" stroke-width="1.5"/>
+<circle cx="957" cy="195" r="77" fill="#101F39" stroke="#617AA3" stroke-opacity=".38"/>
+<path d="M887 195h140M957 125v140" stroke="#46618E" stroke-opacity=".27"/>
+<rect x="913" y="154" width="88" height="82" rx="16" fill="#172A47" stroke="#6C8FC9" stroke-opacity=".5"/>
+<text x="957" y="205" text-anchor="middle" font-size="38" font-weight="800" font-family="DejaVu Sans,Arial,sans-serif" fill="#F7FAFF">LF</text>
+<text x="957" y="226" text-anchor="middle" font-size="9" font-family="DejaVu Sans Mono,monospace" letter-spacing="2" fill="#8AA6CC">DEVHACK</text>
+<rect x="863" y="329" width="188" height="27" rx="13" fill="#0F1D34" stroke="#405983"/>
+<circle cx="881" cy="342.5" r="4" fill="#34A853"/>
+<text x="896" y="347" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="#B1C8EA">SYSTEMS &amp; CURIOSITY</text>
+<rect x="25" y="379" width="1150" height="3" rx="1.5" fill="url(#line)"/>
+</svg>

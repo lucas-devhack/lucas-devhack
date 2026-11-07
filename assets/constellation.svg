@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title">
+<title id="title">Constelação de competências: Google AI, dados, engenharia e infraestrutura híbrida</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1629"/><stop offset="1" stop-color="#101F34"/></linearGradient>
+<linearGradient id="connect" x1="0" x2="1"><stop stop-color="#4285F4"/><stop offset=".3" stop-color="#EA4335"/><stop offset=".67" stop-color="#FBBC05"/><stop offset="1" stop-color="#34A853"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="a"/><feMerge><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.h{font:700 21px 'DejaVu Sans',Arial,sans-serif;fill:#F4F7FD}
+.s{font:400 14px 'DejaVu Sans',Arial,sans-serif;fill:#91ADCF}
+.k{font:600 12px 'DejaVu Sans Mono',Consolas,monospace;letter-spacing:2px;fill:#A6BAD5}
+.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+</defs>
+<rect width="1200" height="250" rx="16" fill="url(#bg)"/><rect x=".75" y=".75" width="1198.5" height="248.5" rx="15" fill="none" stroke="#33496C" stroke-opacity=".8"/>
+<text x="28" y="34" class="k">SYSTEM MAP / FOCUS AREAS</text><text x="1164" y="34" text-anchor="end" class="k" opacity=".55">01 — 04</text>
+<path d="M82 77H1118" stroke="#355073" stroke-width="1.5"/><path d="M82 77H1118" stroke="url(#connect)" stroke-width="3" stroke-dasharray="9 30" class="pulse"/>
+<g transform="translate(28 57)"><rect width="266" height="162" rx="13" fill="#111F34" stroke="#3F5B89"/><rect width="266" height="5" rx="2.5" fill="#4285F4"/><circle cx="46" cy="20" r="7" fill="#4285F4"/><text x="25" y="63" class="k">01 / INTELLIGENCE</text><text x="25" y="98" class="h">Google AI</text><text x="25" y="124" class="s">Gemini · ADK · RAG</text><text x="25" y="145" class="s">Agentes e modelos</text></g>
+<g transform="translate(320 57)"><rect width="266" height="162" rx="13" fill="#111F34" stroke="#80505B"/><rect width="266" height="5" rx="2.5" fill="#EA4335"/><circle cx="46" cy="20" r="7" fill="#EA4335"/><text x="25" y="63" class="k">02 / ANALYTICS</text><text x="25" y="98" class="h">Data &amp; Cloud</text><text x="25" y="124" class="s">BigQuery · SQL · Looker</text><text x="25" y="145" class="s">Dados e observabilidade</text></g>
+<g transform="translate(612 57)"><rect width="266" height="162" rx="13" fill="#111F34" stroke="#88754A"/><rect width="266" height="5" rx="2.5" fill="#FBBC05"/><circle cx="46" cy="20" r="7" fill="#FBBC05"/><text x="25" y="63" class="k">03 / ENGINEERING</text><text x="25" y="98" class="h">Code &amp; Apps</text><text x="25" y="124" class="s">Python · React · APIs</text><text x="25" y="145" class="s">Produtos e automação</text></g>
+<g transform="translate(904 57)"><rect width="266" height="162" rx="13" fill="#111F34" stroke="#406E63"/><rect width="266" height="5" rx="2.5" fill="#34A853"/><circle cx="46" cy="20" r="7" fill="#34A853"/><text x="25" y="63" class="k">04 / OPERATIONS</text><text x="25" y="98" class="h">Hybrid Infra</text><text x="25" y="124" class="s">Linux · Docker · Edge</text><text x="25" y="145" class="s">Sistemas reais</text></g>
+</svg>
