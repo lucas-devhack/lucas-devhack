@@ -2,7 +2,7 @@
 <!-- This is the personal profile of Lucas Fernandes, NOT the devhack-platform account profile. -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Lucas Fernandes — IA aplicada, Dados e Google Cloud. Banner tecnológico com órbitas e cores inspiradas no ecossistema Google." />
+  <img src="./assets/hero-systems-data.svg" width="100%" alt="Lucas Fernandes — IA aplicada, Dados e Google Cloud. Banner tecnológico com órbitas e cores inspiradas no ecossistema Google." />
 
   <br />
 
