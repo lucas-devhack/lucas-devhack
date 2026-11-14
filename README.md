@@ -136,36 +136,16 @@ Experimentos com Python, APIs, logs, automações, dados e dashboards.
 
 <sub>Parte das aplicações é privada ou experimental. A vitrine mostra o que pode ser compartilhado sem expor infraestrutura, segredos ou repositórios internos.</sub>
 
-## `04 / Quest log` — progresso real, sem XP fictício
+## `04 / Prática & aprendizado` — evidências em vez de contadores
 
-| Missão | Estado | Evidência |
-| :-- | :-- | :-- |
-| Publicar portfólio profissional | ✅ Concluída | [lucasfernandes.work](https://lucasfernandes.work) |
-| Compartilhar projeto técnico open source | ✅ Concluída | [OCR Conversor](https://github.com/lucas-devhack/ocr-conversor) |
-| Evoluir em Google Cloud e IA generativa | 🔄 Em andamento | [Google Skills](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3) |
-| Alinhar README, site, currículos e LinkedIn à fonte de dados profissionais | 🧭 Planejada | [Planejamento no portfólio](https://lucasfernandes.work) |
+Prefiro mostrar **projetos reais, código disponível e aprendizado documentado**. As entregas estão no portfólio e nos repositórios acima; as trilhas e credenciais podem ser conferidas diretamente nas plataformas emissoras.
 
-<details>
-<summary><b>🧪 Abrir painel de missões futuras</b></summary>
-
-- [ ] Consolidar uma fonte única da verdade **do perfil profissional**.
-- [ ] Gerar o perfil GitHub e os currículos PT/EN a partir da mesma base.
-- [ ] Preparar uma revisão editorial do LinkedIn com os mesmos fatos, sem sincronização automática não autorizada.
-- [ ] Exibir credenciais verificadas de Google Skills e Credly sem números inventados.
-- [ ] Publicar mais estudos de caso com arquitetura, decisões técnicas e resultados.
-
-</details>
-
-## `05 / Learning signals` — credenciais verificáveis
-
-Não existe atalho para experiência real. Prefiro mostrar a trajetória de aprendizado e deixar as evidências acessíveis.
-
-- **Google Skills:** [perfil público, laboratórios e skill badges](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3).
-- **Credly:** [credenciais e badges emitidos](https://www.credly.com/users/lucas-devhack/badges).
-- **Google Cloud:** estudos com foco em IA generativa, ADK, agentes, dados e arquiteturas cloud; preparação para **Google Cloud Generative AI Leader** (exame ainda não apresentado como concluído).
+- **[Google Skills](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3)** — laboratórios, trilhas e skill badges públicos.
+- **[Credly](https://www.credly.com/users/lucas-devhack/badges)** — badges e credenciais emitidos.
+- **Em estudo:** IA generativa, Google Cloud, ADK, agentes, dados e arquiteturas cloud; preparação para **Google Cloud Generative AI Leader**, sem apresentar o exame como concluído.
 
 <details>
-<summary><b>📊 Explorar atividade pública no GitHub</b></summary>
+<summary><b>📊 Ver atividade pública no GitHub</b></summary>
 
 <p align="center">
   <a href="https://github.com/lucas-devhack">
@@ -173,11 +153,11 @@ Não existe atalho para experiência real. Prefiro mostrar a trajetória de apre
   </a>
 </p>
 
-<sub>O gráfico é fornecido por um serviço de terceiros e pode estar temporariamente indisponível. Ele não inclui necessariamente contribuições privadas.</sub>
+<sub>Gráfico fornecido por serviço de terceiros. Pode estar indisponível e não reflete necessariamente as contribuições privadas.</sub>
 
 </details>
 
-## `06 / Connect` — vamos conversar
+## `05 / Connect` — vamos conversar
 
 Além dos links no topo, meu contato profissional é **[lucasfernandes.devhack@gmail.com](mailto:lucasfernandes.devhack@gmail.com)**. Para conhecer mais projetos, acesse [lucasfernandes.work](https://lucasfernandes.work); para acompanhar minha trajetória profissional, veja o [LinkedIn](https://www.linkedin.com/in/lucas-devhack/).
 
