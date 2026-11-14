@@ -88,7 +88,7 @@ Projeto público com versão desktop em Python/Tkinter e uma evolução web com 
 
 Um laboratório de estudos, integrações, agentes, automações, aplicações e infraestrutura própria.
 
-<a href="https://lucasfernandes.work/catalog">Ver projetos</a>
+<a href="https://devhack.cc">Explorar site</a>
 
 </td>
 <td valign="top">
@@ -97,7 +97,7 @@ Um laboratório de estudos, integrações, agentes, automações, aplicações e
 
 Projeto real que une presença digital, design, identidade, processos e automação de um estúdio criativo.
 
-<a href="https://lucasfernandes.work/catalog">Ver no portfólio</a>
+<a href="https://house67tattoo.com.br">Explorar site</a>
 
 </td>
 </tr>
@@ -113,17 +113,6 @@ Laboratório de narração, texto para áudio e experimentos com motores TTS.
 </td>
 <td valign="top">
 
-**🤖 Antigravity Kit — estudo**
-
-Repositório de referência para agents, skills e workflows; preserva a atribuição ao projeto original de <a href="https://github.com/vudovn/ag-kit">Vudovn</a>.
-
-<a href="https://github.com/lucas-devhack/antigravity-kit">Explorar repositório</a>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 **🧰 Central H67**
 
 Plataforma administrativa para organizar serviços, dashboards, integrações e automações do ecossistema House 67.
@@ -131,7 +120,9 @@ Plataforma administrativa para organizar serviços, dashboards, integrações e 
 <sub>Aplicação interna; sem acesso público ao painel.</sub>
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **📊 BotBin / Tio Patinhas**
 
