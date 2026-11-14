@@ -1,4 +1,4 @@
-<!-- LUCAS-DEVHACK / PROFILE README EXPERIMENT · Google-inspired independent visual language. -->
+<!-- LUCAS-DEVHACK / PERSONAL PROFILE README · EXPERIMENTAL BRANCH -->
 <!-- This is the personal profile of Lucas Fernandes, NOT the devhack-platform account profile. -->
 
 <div align="center">
@@ -41,7 +41,20 @@ Gosto de sair do conceito e chegar a algo que funcione: desenvolver uma interfac
 | 🟦 **Google AI & Agents** | Gemini, Google ADK, RAG, agentes com ferramentas, experimentos com modelos locais |
 | 🟥 **Cloud & Analytics** | Google Cloud, BigQuery, SQL, Looker, Cloud Run, observabilidade |
 | 🟨 **Software & Automation** | Python, JavaScript, React, Next.js, FastAPI, APIs, n8n |
-| 🟩 **Hybrid Infrastructure** | Linux, Docker, Cloudflare, redes, GitHub Actions, automação operacional |
+| 🟩 **Hybrid Infrastructure** | Linux, Docker, Nginx, Cloudflare, redes, GitHub Actions, automação operacional |
+
+<details>
+<summary><b>🔍 Explorar ferramentas e trilhas técnicas</b></summary>
+
+- **Google AI & Cloud:** Gemini e Gemini API, ADK, Agent Studio, Agent Runtime, Gemini Enterprise Agent Platform, RAG Engine, Model Garden, Google Antigravity, NotebookLM e Cloud Run.
+- **Dados & análise:** SQL, BigQuery, BigQuery ML, Looker, dashboards e observabilidade.
+- **Desenvolvimento & automação:** Python, JavaScript, TypeScript, React, Next.js, Tailwind CSS, FastAPI, Django, APIs, Bash e n8n.
+- **OpenAI & agentes de código:** GPT, Codex, assistentes e workflows de desenvolvimento.
+- **Modelos e ferramentas locais:** Ollama, Qwen, Gemma, Llama e DeepSeek; experimentos conectando ambientes locais e cloud.
+
+<sub>Esta é uma combinação de ferramentas utilizadas em projetos, experimentos e tecnologias em estudo — não uma lista de certificações concluídas.</sub>
+
+</details>
 
 > **Aprendizado contínuo ≠ domínio certificado:** tecnologias em estudo, protótipos e experiência aplicada aparecem juntas no mapa, sem sugerir certificações ou competências verificadas que ainda não foram conquistadas.
 
@@ -108,6 +121,26 @@ Repositório de referência para agents, skills e workflows; preserva a atribui�
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+**🧰 Central H67**
+
+Plataforma administrativa para organizar serviços, dashboards, integrações e automações do ecossistema House 67.
+
+<sub>Aplicação interna; sem acesso público ao painel.</sub>
+
+</td>
+<td valign="top">
+
+**📊 BotBin / Tio Patinhas**
+
+Experimentos com Python, APIs, logs, automações, dados e dashboards.
+
+<sub>Laboratório privado; sem demonstração pública.</sub>
+
+</td>
+</tr>
 </table>
 
 <sub>Parte das aplicações é privada ou experimental. A vitrine mostra o que pode ser compartilhado sem expor infraestrutura, segredos ou repositórios internos.</sub>
@@ -119,13 +152,14 @@ Repositório de referência para agents, skills e workflows; preserva a atribui�
 | Publicar portfólio profissional | ✅ Concluída | [lucasfernandes.work](https://lucasfernandes.work) |
 | Compartilhar projeto técnico open source | ✅ Concluída | [OCR Conversor](https://github.com/lucas-devhack/ocr-conversor) |
 | Evoluir em Google Cloud e IA generativa | 🔄 Em andamento | [Google Skills](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3) |
-| Conectar README, site e currículo a uma fonte única de dados | 🧭 Planejada | Arquitetura em preparação |
+| Alinhar README, site, currículos e LinkedIn à fonte de dados profissionais | 🧭 Planejada | [Planejamento no portfólio](https://lucasfernandes.work) |
 
 <details>
 <summary><b>🧪 Abrir painel de missões futuras</b></summary>
 
-- [ ] Consolidar uma fonte única da verdade para os dados profissionais.
+- [ ] Consolidar uma fonte única da verdade **do perfil profissional**.
 - [ ] Gerar o perfil GitHub e os currículos PT/EN a partir da mesma base.
+- [ ] Preparar uma revisão editorial do LinkedIn com os mesmos fatos, sem sincronização automática não autorizada.
 - [ ] Exibir credenciais verificadas de Google Skills e Credly sem números inventados.
 - [ ] Publicar mais estudos de caso com arquitetura, decisões técnicas e resultados.
 
@@ -137,7 +171,7 @@ Não existe atalho para experiência real. Prefiro mostrar a trajetória de apre
 
 - **Google Skills:** [perfil público, laboratórios e skill badges](https://www.skills.google/public_profiles/79186fc1-8a44-4eaa-86fe-e9232a5580b3).
 - **Credly:** [credenciais e badges emitidos](https://www.credly.com/users/lucas-devhack/badges).
-- **Google Cloud:** estudos com foco em IA generativa, ADK, agentes, dados e arquiteturas cloud.
+- **Google Cloud:** estudos com foco em IA generativa, ADK, agentes, dados e arquiteturas cloud; preparação para **Google Cloud Generative AI Leader** (exame ainda não apresentado como concluído).
 
 <details>
 <summary><b>📊 Explorar atividade pública no GitHub</b></summary>
@@ -152,10 +186,12 @@ Não existe atalho para experiência real. Prefiro mostrar a trajetória de apre
 
 </details>
 
+## `06 / Connect` — vamos conversar
+
+Além dos links no topo, meu contato profissional é **[lucasfernandes.devhack@gmail.com](mailto:lucasfernandes.devhack@gmail.com)**. Para conhecer mais projetos, acesse [lucasfernandes.work](https://lucasfernandes.work); para acompanhar minha trajetória profissional, veja o [LinkedIn](https://www.linkedin.com/in/lucas-devhack/).
+
 ---
 
 <div align="center">
   <a href="https://lucasfernandes.work"><img src="./assets/footer.svg" width="100%" alt="Tecnologia, criatividade e curiosidade para construir soluções reais." /></a>
-  <br />
-  <sub>Perfil pessoal independente. Identidade visual inspirada nas quatro cores do Google; sem afiliação ou endosso oficial.</sub>
 </div>
